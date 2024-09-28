@@ -1,0 +1,312 @@
+ .u-section-1 {
+  background-image: none;
+  padding-bottom: 100px;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1134px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 979px;
+  height: auto;
+  --radius: 15px;
+  min-height: 1271px;
+  margin: 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 15px 22px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 95px;
+  background-image: none;
+  height: 95px;
+  margin: 50px auto 0;
+  padding: 9px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: IBMPlexSansJP-Bold;
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 28px auto 0;
+  font-color: white;
+}
+
+.u-section-1 .u-form-1 {
+  height: 584px;
+  margin: 53px 154px 0 157px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-1 {
+  --radius: 50px;
+  font-family: IBMPlexSansJP-Regular;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-2 {
+  --radius: 50px;
+  font-family: IBMPlexSansJP-Regular;
+}
+
+.u-section-1 .u-input-3 {
+  font-family: IBMPlexSansJP-Regular;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-4 {
+  --radius: 50px;
+  font-family: IBMPlexSansJP-Regular;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-5 {
+  --radius: 50px;
+  font-family: IBMPlexSansJP-Regular;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-6 {
+  --radius: 50px;
+  font-family: IBMPlexSansJP-Regular;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  width: 100%;
+  font-size: 1.25rem;
+  letter-spacing: 2px;
+  font-family: IBMPlexSansJP-SemiBold;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 9px 0 11px;
+}
+
+.u-section-1 .u-btn-2 {
+  --radius: 50px;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  font-weight: 700;
+  font-family: IBMPlexSansJP-SemiBold;
+  text-transform: none;
+  margin: -571px 162px 0 auto;
+  padding: 15px 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  font-family: IBMPlexSansJP-SemiBold;
+  margin: 555px 27px 0;
+}
+
+.u-section-1 .u-group-elements-1 {
+  width: 619px;
+  min-height: 65px;
+  height: auto;
+  margin: 16px auto 0;
+}
+
+.u-section-1 .u-btn-3 {
+  --radius: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 1px 0 0 auto;
+  padding: 0 21px 0 20px;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 2.8572em;
+}
+
+.u-section-1 .u-btn-4 {
+  --radius: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -64px auto 0 0;
+  padding: 0 47px 0 46px;
+}
+
+.u-section-1 .u-icon-3 {
+  font-size: 2.8572em;
+  margin-right: 0;
+}
+
+.u-section-1 .u-btn-5 {
+  --radius: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -65px 210px 0 auto;
+  padding: 0 36px;
+}
+
+.u-section-1 .u-icon-4 {
+  font-size: 2.8572em;
+}
+
+.u-section-1 .u-line-1 {
+  width: 304px;
+  border-style: solid;
+  transform-origin: right center;
+  margin: 100px auto 0;
+}
+
+.u-section-1 .u-btn-6 {
+  background-image: none;
+  font-size: 1.25rem;
+  font-family: IBMPlexSansJP-Medium;
+  margin: 40px auto 0;
+  padding: 0;
+}
+.custom-spacing {
+    margin-top: 50px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: 940px;
+    height: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 624px;
+    margin-top: 61px;
+    margin-right: 142px;
+    margin-left: 130px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -661px;
+    margin-right: 123px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 758px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+
+  .u-section-1 .u-line-1 {
+    height: 1px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 36px;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 520px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+    margin-top: 745px;
+  }
+
+  .u-section-1 .u-group-elements-1 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 320px;
+  }
+
+  .u-section-1 .u-group-elements-1 {
+    width: 320px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 331px;
+}@font-face {
+  font-family: 'IBMPlexSansJP-Medium';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/IBMPlexSansJP-Medium.ttf');
+}@font-face {
+  font-family: 'IBMPlexSansJP-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/IBMPlexSansJP-Regular.ttf');
+}@font-face {
+  font-family: 'IBMPlexSansJP-SemiBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/IBMPlexSansJP-SemiBold.ttf');
+}@font-face {
+  font-family: 'IBMPlexSansJP-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/IBMPlexSansJP-Bold.ttf');
+}
